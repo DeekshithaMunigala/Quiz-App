@@ -27,7 +27,7 @@ This is a simple quiz app built using HTML, CSS, and JavaScript. It presents the
 * style.css: Stylesheet file for the app.
 * app.js: JavaScript file containing the quiz logic.
 
-##Customization
+## Customization
 
 You can customize the quiz by adding more questions to the questions array in app.js.
 Modify the styles in style.css to change the appearance of the quiz.
@@ -36,6 +36,6 @@ Modify the styles in style.css to change the appearance of the quiz.
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
-##License:
+## License:
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
