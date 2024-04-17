@@ -2,6 +2,10 @@
 
 This is a simple quiz app built using HTML, CSS, and JavaScript. It presents the user with a series of multiple-choice questions related to JavaScript programming language and provides instant feedback on the correctness of answers.
 
+## Demo
+
+You can try out the app live [here](https://quiz-app-sable-delta.vercel.app/)
+
 ## Features:
 
 - Presents a series of JavaScript-related questions to the user.
